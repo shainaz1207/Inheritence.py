@@ -34,26 +34,36 @@
 # class Animal:
 "     livingthing=true
 
+#     def eat(self):
+#         print("eating")
+
+#     def sleep(self):
+#         print("sleep")
+
+# """child class""" 
+# class goat(Animal):
+
+#    def grass(self):
+#        print("Its eating grass")
+
+#    def herb(self):
+#        print("It is herbivorus")
+
+#     def sleep(self):
+#         print("don't sleep you are710Rs kg")
 
 
+# a=Animal()
+# print(a.livingthing)
+# a.eat()
+# a.sleep()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# g=goat() 
+# g.grass()
+# g.herb()
+# g.sleep()
+# print(g.livingthing)
+# g.eat()
 
 
 
